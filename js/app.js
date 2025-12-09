@@ -640,7 +640,7 @@ const grammarDecks = [
 {
     id: 'kapitel-4',
     title: 'Grammatik Kapitel 4',
-    language: 'German',
+    language: 'German A1',
     questionCount: 15,
     questions: [
         {
