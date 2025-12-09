@@ -638,8 +638,8 @@ const vokabDecks = [
 // German grammar questions data - organized into decks
 const grammarDecks = [
 {
-    id: 'akkusativ-practice',
-    title: 'Akkusativ Case Practice',
+    id: 'kapitel-4',
+    title: 'Grammatik Kapitel 4',
     language: 'German',
     questionCount: 15,
     questions: [
